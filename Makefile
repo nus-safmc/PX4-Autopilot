@@ -49,8 +49,7 @@ endif
 # Example usage:
 #
 # make px4_fmu-v2_default 			(builds)
-# make px4_fmu-v2_default upload 	(builds and uploads)
-# make px4_fmu-v2_default test 		(builds and tests)
+# make px4_fmu-v2_default upload 	(builds and uploads# make px4_fmu-v2_default test 		(builds and tests)
 #
 # This tells cmake to build the nuttx px4_fmu-v2 default config in the
 # directory build/px4_fmu-v2_default and then call make
